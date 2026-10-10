@@ -6,8 +6,8 @@
 
 ## Скачать
 
-- **Open Beta:** [все бета-выпуски и установщики](https://github.com/sm1l3123/project-dm-beta-releases/releases). Последняя опубликованная на **8 октября 2026 года** версия — [Mizena 0.6.0-beta.21](https://github.com/sm1l3123/project-dm-beta-releases/releases/tag/v0.6.0-beta.21).
-- **Stable:** [стабильные выпуски Mizena](https://github.com/sm1l3123/project-dm-releases/releases). Последняя опубликованная на **8 октября 2026 года** версия — **Mizena 0.5.31**.
+- **Open Beta:** [все бета-выпуски, изменения и установщики](https://github.com/sm1l3123/project-dm-beta-releases/releases). Самый новый опубликованный выпуск ищите в списке Releases; черновики и тестовые ветки не считаются опубликованной Beta.
+- **Stable:** [последний стабильный выпуск Mizena](https://github.com/sm1l3123/project-dm-releases/releases/latest).
 
 Для установки откройте нужный выпуск в разделе **Releases** и скачайте Windows-установщик `mizena-beta-…-setup.exe`. Файлы `beta.yml` и `.blockmap` используются системой обновления.
 
